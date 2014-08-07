@@ -1,0 +1,11 @@
+Reactangle: 
+Length = 10.20, width = 5.35, area = 54.57, perimeter = 31.10
+
+Circle: 
+Radius: 15.60, area = 764.54, circumference = 98.02
+
+Name: Randy Gill, age : 31
+Beginning balance = $18500.00, interest rate = 3.50
+Balance at the end of the month = $18553.96
+
+The character that comes after A in ASCII set is B
